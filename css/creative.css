@@ -167,7 +167,7 @@ img::-moz-selection {
   }
 }
 
-/* add style for background video */
+/* TODO add style for background video */
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 56px);
