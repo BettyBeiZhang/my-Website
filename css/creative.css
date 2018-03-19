@@ -330,12 +330,15 @@ header.masthead p {
 }
 
 .my-photo {
-  float: left;
-  transform: translateX(8rem) skewX(1deg);
-  position: relative;
+  /* float: left; */
+  /* transform: translateX(8rem) skewX(1deg); */
+  /* position: relative; */
   overflow: hidden;
   border-radius: 50%;
   opacity: 0.9;
+  text-align: center;
+  width: 70%;
+  height: 90%;
 }
 
 #about p {
