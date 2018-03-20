@@ -170,6 +170,7 @@ img::-moz-selection {
 }
 
 /* replace background image style with background video  */
+
 header.masthead {
   position: relative;
   padding: 15rem 0;
@@ -330,17 +331,17 @@ header.masthead p {
 }
 
 .my-photo {
-  /* float: left; */
-  /* transform: translateX(8rem) skewX(1deg); */
-  /* position: relative; */
   overflow: hidden;
   border-radius: 50%;
-  opacity: 0.9;
   text-align: center;
-  width: 70%;
-  height: 90%;
+  width: 60%;
+  height: 80%;
 }
 
+.my-photo:hover {
+  transform: scale(1.05) translateY(-.5rem);
+} 
+
 #about p {
-  text-align:left;
+  text-align: left;
 }
