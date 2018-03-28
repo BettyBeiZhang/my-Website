@@ -334,8 +334,8 @@ header.masthead p {
   overflow: hidden;
   border-radius: 50%;
   text-align: center;
-  width: 60%;
-  height: 80%;
+  width: 50%;
+  /* height: 80%; */
 }
 
 .my-photo:hover {
